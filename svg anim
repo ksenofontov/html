@@ -1,0 +1,121 @@
+<html>
+  <head>
+    <meta charset="utf-8">
+  </head>
+  <body>
+<svg width="1000" height="400" xmlns="http://www.w3.org/2000/svg">
+ <g>
+  <title>background</title>
+  <g display="none" overflow="visible" y="0" x="0" height="100%" width="100%" id="canvasGrid">
+   <rect fill="url(#gridpattern)" stroke-width="0" y="0" x="0" height="100%" width="100%"/>
+  </g>
+ </g>
+ <g>
+  <title>Layer 1</title>
+  <ellipse id="derevo" ry="77" rx="80" id="svg_1" cy="132.5" cx="182.5" stroke-width="1.5" stroke="#5fbf00" fill="#007f00"/>
+  <ellipse rx="471" id="svg_2" cy="6.5" cx="235.5" stroke-width="1.5" stroke="#000" fill="#0fffff"/>
+  <line stroke-linecap="null" stroke-linejoin="null" id="svg_3" y2="349.5" x2="187.5" y1="210.5" x1="185.5" stroke-opacity="null" stroke-width="1.5" stroke="#000" fill="none"/>
+  <line stroke="#000" stroke-linecap="null" stroke-linejoin="null" id="svg_4" y2="347.5" x2="233.499998" y1="350.5" x1="152.499992" stroke-opacity="null" stroke-width="1.5" fill="none"/>
+  <ellipse ry="7.5" rx="7" id="svg_6" cy="118" cx="147.5" stroke-width="1.5" stroke="#5fbf00" fill="#ff0000"/>
+  <ellipse ry="7" rx="6" id="svg_7" cy="174.5" cx="171.5" stroke-width="1.5" stroke="#5fbf00" fill="#ff0000"/>
+  <ellipse ry="7.5" rx="8" id="svg_8" cy="123" cx="187.5" stroke-width="1.5" stroke="#5fbf00" fill="#ff0000"/>
+  <ellipse ry="9" rx="7.5" id="svg_9" cy="151.5" cx="227" stroke-width="1.5" stroke="#5fbf00" fill="#ff0000"/>
+  <ellipse ry="7" rx="7" id="svg_10" cy="154.5" cx="140.5" stroke-width="1.5" stroke="#5fbf00" fill="#ff0000"/>
+  <ellipse ry="7" rx="8" id="svg_11" cy="80.5" cx="181.5" stroke-width="1.5" stroke="#5fbf00" fill="#ff0000"/>
+  <ellipse ry="7" rx="8.5" id="svg_12" cy="105.5" cx="236" stroke-width="1.5" stroke="#5fbf00" fill="#ff0000"/>
+  <path id="svg13" d="m247.972504,303.590149c-1.427216,-3.070496 -4.401489,-2.516266 -6.614685,-3.213928c-1.838104,-1.026855 -4.653625,-2.011108 -5.960999,0.926178c-1.74472,2.741272 -3.294891,5.696899 -4.673859,8.786041c-2.890228,4.269073 -6.401459,7.692322 -9.92981,10.922211c-2.972717,1.968048 -6.227142,3.503082 -8.633331,6.710083c-4.56958,3.9505 -10.135254,4.670685 -15.187317,6.986603c0.896484,0.419647 4.85907,-1.105835 2.196075,0.564606c-1.982849,0.880035 0.779755,1.697632 1.662231,1.110565c-0.697266,1.003937 -0.888702,1.086029 -0.031128,1.071014c-1.557953,1.172028 3.4552,-0.364258 0.695709,1.27655c-1.203094,0.473389 -4.157135,4.843353 -1.449005,2.874664c2.519806,-1.413025 5.206146,-2.123657 7.827118,-3.094543c-1.96106,2.715698 -4.753235,4.413696 -6.101074,7.857178c0.031128,0.888824 2.085571,-1.805817 2.954041,-2.247253c4.940002,-4.023773 10.116577,-7.752991 15.682251,-9.925842c0.759521,0.246765 0.908936,2.989685 2.389069,1.587646c0.130737,1.747894 3.385162,-2.741882 2.53537,0.759552c1.408539,-2.997894 -0.003113,3.2547 1.301147,4.201508c0.666138,1.184937 3.39917,2.820587 1.17041,3.226563c-0.983643,1.986206 1.38208,-0.7966 1.898804,1.064148c1.929932,0.944946 0.522949,1.913849 -0.873138,1.34137c-1.072357,-0.192688 -1.293365,1.703979 -0.210114,0.52713c1.293365,1.194458 3.346252,0.765228 4.99292,1.278687c1.648224,0.184235 3.645081,-2.272858 4.269196,-1.677338c-1.517487,-1.468628 -3.716675,0.324646 -5.383575,-0.808746c-0.350189,-1.523987 3.908112,0.545227 3.915894,-2.030518c1.993744,-0.250183 -1.677795,-0.59729 -2.389069,0.01062c-2.454437,0.176422 -3.713562,-2.897919 -5.441162,-4.64325c0.051361,-3.623199 2.024872,-6.735901 4.087097,-8.781677c2.692566,-2.18512 5.456726,-4.999298 6.21936,-9.360565c0.790649,-3.883423 1.229553,-7.885742 1.589081,-11.868591c0.485596,-2.569672 1.88324,-4.94281 4.027954,-4.750916c1.154846,-0.217102 2.315918,-0.397522 3.464539,-0.679749l0,0z" stroke-width="1.5" stroke="#ffffff" fill="#000000"/>
+  <path stroke="#ffffff" id="svg_14" d="m618.964172,162.342529c0,0 3.171997,-15.724564 0,-21.048203c-3.215515,-5.323654 -4.502991,-8.870956 -11.537354,-11.412674s-4.453247,-2.029663 -9.603088,-1.770172c-5.100037,0.252548 -9.37915,3.546539 -9.37915,5.316711c0,0 -3.171997,0.259476 -4.453247,1.777115c-1.287476,1.523804 -3.4021,8.616867 -3.4021,10.393982s1.057312,13.701813 2.114624,16.230423l-1.287415,0.512817c-1.057373,14.699692 4.272827,16.475937 4.272827,16.475937c1.928101,13.696487 3.862427,7.867004 3.862427,11.413528s-1.934326,2.282959 -1.934326,2.282959s-1.697937,5.576218 -5.970825,7.605927c-4.279114,2.022736 -27.901184,12.929535 -29.835449,15.21257c-1.928101,2.289108 -1.697937,12.929459 -1.697937,12.929459l101.441772,0c0,0 0.230103,-10.64035 -1.697937,-12.929459c-1.934326,-2.289917 -25.60614,-13.189835 -29.835449,-15.21257c-4.272888,-2.029709 -5.970825,-7.605927 -5.970825,-7.605927s-1.934326,1.264313 -1.934326,-2.282959s1.934326,2.282959 3.862366,-11.413528c0,0 5.3302,-1.776245 4.22937,-16.475937l-1.243958,0z" stroke-width="1.5" fill="#000000"/>
+  <line stroke-linecap="null" stroke-linejoin="null" id="svg_15" y2="327.5" x2="556.5" y1="222.5" x1="552.5" fill-opacity="null" stroke-width="1.5" stroke="#191919" fill="none"/>
+  <line stroke-linecap="null" stroke-linejoin="null" id="svg_16" y2="327.5" x2="657.5" y1="220.5" x1="649.5" fill-opacity="null" stroke-width="1.5" stroke="#191919" fill="none"/>
+  <line stroke-linecap="null" stroke-linejoin="null" id="svg_17" y2="327.5" x2="658.5" y1="326.5" x1="558.5" fill-opacity="null" stroke-width="1.5" stroke="#191919" fill="none"/>
+  <line stroke-linecap="null" stroke-linejoin="null" id="svg_18" y2="390.5" x2="572.5" y1="326.5" x1="580.5" fill-opacity="null" stroke-width="1.5" stroke="#191919" fill="none"/>
+  <line stroke-linecap="null" stroke-linejoin="null" id="svg_19" y2="392.5" x2="645.5" y1="328.5" x1="629.5" fill-opacity="null" stroke-width="1.5" stroke="#191919" fill="none"/>
+  <line stroke-linecap="null" stroke-linejoin="null" id="svg_20" y2="388.5" x2="574.5" y1="387.5" x1="551.5" fill-opacity="null" stroke-width="1.5" stroke="#191919" fill="none"/>
+  <line stroke-linecap="null" stroke-linejoin="null" id="svg_21" y2="389.5" x2="672.5" y1="391.5" x1="645.5" fill-opacity="null" stroke-width="1.5" stroke="#191919" fill="none"/>
+  <line stroke-linecap="null" stroke-linejoin="null" id="svg_22" y2="265.5" x2="715.5" y1="241.5" x1="653.5" fill-opacity="null" stroke-width="1.5" stroke="#191919" fill="none"/>
+  <line stroke-linecap="null" stroke-linejoin="null" id="svg_23" y2="266.5" x2="506.5" y1="250.5" x1="554.5" fill-opacity="null" stroke-width="1.5" stroke="#191919" fill="none"/>
+  <line stroke-linecap="null" stroke-linejoin="null" id="svg_24" y2="249.5" x2="716.5" y1="273.5" x1="708.5" fill-opacity="null" stroke-width="1.5" stroke="#191919" fill="none"/>
+  <line stroke-linecap="null" stroke-linejoin="null" id="svg_25" y2="247.5" x2="710.5" y1="258.5" x1="742.5" fill-opacity="null" stroke-width="1.5" stroke="#191919" fill="none"/>
+  <path stroke="#191919" id="svg_26" d="m629.416992,127.082466c0,-0.62693 1.383911,-1.135139 3.088379,-1.135139c1.702698,0 3.090942,0.508209 3.090942,1.135139c0,0.62693 -1.388245,1.135139 -3.090942,1.135139c-1.704468,0 -3.088379,-0.508209 -3.088379,-1.135139zm6.329651,-8.155647c0,-1.567673 3.452087,-2.837502 7.719666,-2.837502c4.263245,0 7.715332,1.269829 7.715332,2.837502c0,1.568367 -3.452087,2.838196 -7.715332,2.838196c-4.267578,0 -7.719666,-1.269829 -7.719666,-2.838196zm14.666992,-12.365044c0,-4.335045 12.016602,-7.845993 26.856384,-7.845993c14.838013,0 26.863281,3.510948 26.863281,7.845993c0,4.33506 -12.025269,7.846008 -26.863281,7.846008c-14.839783,0 -26.856384,-3.510948 -26.856384,-7.846008zm-23.056152,-35.517715c0,-18.688492 41.175232,-33.826454 92,-33.826454c50.833435,0 92,15.137962 92,33.826454c0,18.688499 -41.166565,33.826462 -92,33.826462c-50.824768,0 -92,-15.137962 -92,-33.826462z" stroke-width="1.5" fill="#ffffff"/>
+  <text stroke="#191919" transform="matrix(0.6999022079201438,0,0,1.0303030014038084,103.5911164216982,-66.28787755966185) " xml:space="preserve" text-anchor="start" font-family="Helvetica, Arial, sans-serif" font-size="24" id="svg_27" y="139.323531" x="755.932115" stroke-opacity="null" stroke-width="0" fill="#000000">sha bi mobilu otzhat'</text>
+  <line stroke-linecap="null" stroke-linejoin="null" id="svg_28" y2="259.5" x2="722.5" y1="264.5" x1="740.5" stroke-opacity="null" stroke-width="1.5" stroke="#191919" fill="none"/>
+  <line stroke-linecap="null" stroke-linejoin="null" id="svg_29" y2="270.5" x2="718.5" y1="259.5" x1="722.5" stroke-opacity="null" stroke-width="1.5" stroke="#191919" fill="none"/>
+  <line stroke-linecap="null" stroke-linejoin="null" id="svg_33" y2="254.5" x2="612.5" y1="238.5" x1="624.5" stroke-opacity="null" stroke-width="1.5" stroke="#191919" fill="none"/>
+  <line stroke-linecap="null" stroke-linejoin="null" id="svg_34" y2="243.5" x2="627.5" y1="254.5" x1="619.5" stroke-opacity="null" stroke-width="1.5" stroke="#191919" fill="none"/>
+  <line stroke-linecap="null" stroke-linejoin="null" id="svg_35" y2="249.5" x2="631.5" y1="255.5" x1="627.5" stroke-width="1.5" stroke="#000000" fill="none"/>
+ </g>
+   <animate 
+           xlink:href="#derevo"
+           attributeName="fill"
+           values="red;yellow;rgb(170,170,255)"
+           begin="click"
+           dur="0.5s"
+           repeatCount="50"
+  />
+     <animate 
+           xlink:href="#svg13"
+           attributeName="fill"
+           values="red;yellow;green;pink;purple)"
+           begin="click"
+           dur="0.5s"
+           repeatCount="50"
+  />
+    <animate 
+           xlink:href="#derevo"
+           attributeName="cx"
+           values="150;650;150"
+           dur="12s"
+           repeatCount="4"
+  />
+      <animate 
+           xlink:href="#svg_6"
+           attributeName="cx"
+           values="150;650;150"
+           dur="12s"
+           repeatCount="4"
+  />
+        <animate 
+           xlink:href="#svg_7"
+           attributeName="cx"
+           values="150;650;150"
+           dur="12s"
+           repeatCount="4"
+  />
+        <animate 
+           xlink:href="#svg_8"
+           attributeName="cx"
+           values="150;650;150"
+           dur="12s"
+           repeatCount="4"
+  />
+        <animate 
+           xlink:href="#svg_9"
+           attributeName="cx"
+           values="150;650;150"
+           dur="12s"
+           repeatCount="4"
+  />
+        <animate 
+           xlink:href="#svg_10"
+           attributeName="cx"
+           values="150;650;150"
+           dur="12s"
+           repeatCount="4"
+  />
+        <animate 
+           xlink:href="#svg_11"
+           attributeName="cx"
+           values="150;650;150"
+           dur="12s"
+           repeatCount="4"
+  />
+        <animate 
+           xlink:href="#svg_12"
+           attributeName="cx"
+           values="150;650;150"
+           dur="12s"
+           repeatCount="4"
+  />
+</svg>
+  </body>
+</html>
